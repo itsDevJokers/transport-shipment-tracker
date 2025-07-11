@@ -8,12 +8,12 @@ A modern, responsive, and real-time capable web application for tracking and man
 
 ## Features
 
-- Dashboard View: A comprehensive overview of all shipments with key statistics (Total, Assigned, Not Assigned).
-- Shipment List: A responsive list displaying all shipments in a table format for desktop and a card format for mobile.
-- Detailed View: A dedicated page for each shipment showing detailed route, vehicle, and transporter information.
-- Transporter Assignment: Functionality to assign or update the transporter for any given shipment.
-- Real-time Simulation: The application simulates real-time updates, where unassigned shipments are automatically assigned by a mock backend process, with changes reflected live in the UI.
-- Responsive Design: The UI is fully responsive and optimized for a seamless experience on both desktop and mobile devices.
+- **Dashboard View**: A comprehensive overview of all shipments with key statistics (Total, Assigned, Not Assigned).
+- **Shipment List**: A responsive list displaying all shipments in a table format for desktop and a card format for mobile.
+- **Detailed View**: A dedicated page for each shipment showing detailed route, vehicle, and transporter information.
+- **Transporter Assignment**: Functionality to assign or update the transporter for any given shipment.
+- **Real-time Simulation**: The application simulates real-time updates, where unassigned shipments are automatically assigned by a mock backend process, with changes reflected live in the UI.
+- **Responsive Design**: The UI is fully responsive and optimized for a seamless experience on both desktop and mobile devices.
 
 ## Tech Stack
 

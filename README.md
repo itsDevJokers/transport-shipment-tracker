@@ -2,8 +2,6 @@
 
 **Version**: 1.0.0
 
-**Link URL**:
-
 A modern, responsive, and real-time capable web application for tracking and managing transport shipments. Built with Vue 3, TypeScript, and Pinia, this project demonstrates professional front-end development practices, including a mock API for development, unit/component testing, and a clean, component-based architecture.
 
 ## Features
